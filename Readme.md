@@ -10,4 +10,6 @@ Ingresamos a la terminal, y escribimos el siguiente comando para desplegar a un 
 Para crear un plan de servicio de aplicación:
 <img src="img/4.png" width="50%" height="50%"/>   
 Para crear la aplicación web con nombre único:
-<img src="img/5.png" width="50%" height="50%"/>
+<img src="img/5.png" width="50%" height="50%"/>  
+Para crear el MySQL server con un nombre único:  
+<img src="img/6.png" width="50%" height="50%"/>  
