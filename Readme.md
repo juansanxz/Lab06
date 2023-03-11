@@ -19,3 +19,5 @@ Se selecciona la base de datos, y en el apartado de propiedades, se observa el n
 <img src="img/8.png" width="50%" height="50%"/>  
 Ahora en el apartado de seguridad de la conexión, permitimos el acceso a los servicios de Azure y guardamos, para que puedan interactuar con las bases de datos del servidor MySQL:
 <img src="img/9.png" width="50%" height="50%"/> 
+
+![image](https://user-images.githubusercontent.com/123812331/224488320-ac2163a0-10dc-45b0-a5ec-7123d8c8fd4b.png)
