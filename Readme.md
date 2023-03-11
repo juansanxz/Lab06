@@ -17,4 +17,5 @@ En la sección de todos los recursos, observamos la creación de la base de dato
 <img src="img/7.png" width="50%" height="50%"/>  
 Se selecciona la base de datos, y en el apartado de propiedades, se observa el nombre del servidor y Nombre de inicio de sesión del administrador del servidor.  
 <img src="img/8.png" width="50%" height="50%"/>  
-
+Ahora en el apartado de seguridad de la conexión, permitimos el acceso a los servicios de Azure, para que puedan interactuar con las bases de datos del servidor MySQL:
+<img src="img/9.png" width="50%" height="50%"/> 
