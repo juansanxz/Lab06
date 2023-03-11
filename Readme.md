@@ -31,4 +31,11 @@ Luego en el proyecto seleccionamos pipeline:
 <img src="https://user-images.githubusercontent.com/123812766/224489704-d4b6c988-c65b-4838-a13a-7523899f51f2.png" width="50%" height="50%"/> 
 Y elegimos MyShuttleBuild:
 <img src="https://user-images.githubusercontent.com/123812766/224489760-dbbf7803-abc5-4ea6-ade6-ec20b8c4ceb3.png" width="50%" height="50%"/> 
-
+Para editarlo:
+<img src="https://user-images.githubusercontent.com/123812766/224490031-d8b8eb7c-ff60-4a4c-8def-743aa45dc468.png" width="50%" height="50%"/> 
+Seleccionamos maven para proceder a elegir queue:
+<img src="https://user-images.githubusercontent.com/123812766/224490143-c724c899-ba87-4815-ba15-33100861ccfa.png" width="50%" height="50%"/> 
+Y run:
+<img src="https://user-images.githubusercontent.com/123812766/224490205-d5f50233-300d-4349-bd3e-bcd6c1647e14.png" width="50%" height="50%"/>
+Nos salió el siguiente error, para solucionarlo vamos a rellenar la encuesta que está en el link:
+<img src="https://user-images.githubusercontent.com/123812766/224490333-5090ba88-6794-4bf3-9c4f-cdd162c8fc6c.png" width="50%" height="50%"/>
