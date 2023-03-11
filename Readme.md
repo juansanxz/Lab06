@@ -3,3 +3,5 @@
 ### Exercise 1: Creating Azure Web App and MySQL database
 1. Seleccionar shell.azure.com:
 <img src="img/1.png" width="30%" height="30%"/>
+PowerShell:
+<img src="img/2.png" width="30%" height="30%"/>
