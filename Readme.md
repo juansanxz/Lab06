@@ -14,5 +14,7 @@ Para crear la aplicación web con nombre único:
 Para crear el MySQL server con un nombre único:  
 <img src="img/6a.png" width="50%" height="50%"/>  
 En la sección de todos los recursos, observamos la creación de la base de datos:
-
 <img src="img/7.png" width="50%" height="50%"/>  
+Se selecciona la base de datos, y en el apartado de propiedades, se observa el nombre del servidor y Nombre de inicio de sesión del administrador del servidor.  
+<img src="img/8.png" width="50%" height="50%"/>  
+
