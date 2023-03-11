@@ -4,4 +4,6 @@
 1. Seleccionar shell.azure.com:
 <img src="img/1.png" width="30%" height="30%"/>
 PowerShell:
-<img src="img/2.png" width="30%" height="30%"/>
+<img src="img/2.png" width="30%" height="30%"/>  
+Ingresamos a la terminal, y escribimos el siguiente comando para desplegar a un grupo de recurso:  
+<img src="img/3.png" width="30%" height="30%"/>  
