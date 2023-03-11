@@ -23,3 +23,7 @@ Ahora en la sección de todos los recursos, seleccionamos la aplicación web, y 
 <img src="https://user-images.githubusercontent.com/123812331/224488320-ac2163a0-10dc-45b0-a5ec-7123d8c8fd4b.png" width="50%" height="50%"/>   
 Seleccionar introducción, y luego examinar, abriendo la página web:
 <img src="https://user-images.githubusercontent.com/123812331/224488822-0720fe99-1c2e-4e11-b054-a0d2fccfc3ed.png" width="50%" height="50%"/> 
+Ir ahora, al apartado de configuración, y en configuraciones de aplicación, se debe crear una nueva cadena de conexión:
+<img src="https://user-images.githubusercontent.com/123812331/224489106-242bc78b-bc5b-406c-9c7e-689ae1d55b03.png" width="50%" height="50%"/> 
+Llenamos los campo solicitados con lo indicado en la guía del laboratorio. Finalmente, guardamos los cambios:
+<img src="https://user-images.githubusercontent.com/123812331/224489238-302cb94f-e5ef-4c84-a53a-1be9bcfddda6.png" width="50%" height="50%"/> 
