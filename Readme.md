@@ -13,3 +13,6 @@ Para crear la aplicación web con nombre único:
 <img src="img/5.png" width="50%" height="50%"/>  
 Para crear el MySQL server con un nombre único:  
 <img src="img/6a.png" width="50%" height="50%"/>  
+En la sección de todos los recursos, observamos la creación de la base de datos:
+
+<img src="img/7.png" width="50%" height="50%"/>  
