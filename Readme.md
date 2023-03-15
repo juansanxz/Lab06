@@ -50,4 +50,8 @@ Después vamos al apartado de tasks y llenamos la información solicitada y sele
 <img src="https://user-images.githubusercontent.com/123812766/225196595-39e235c5-c038-46ba-a24b-6f3f80a6690e.png" width="50%" height="50%"/>
 Se crea un release:
 <img src="https://user-images.githubusercontent.com/123812766/225198424-8070e329-21cc-4024-a681-a04fe3c94641.png" width="50%" height="50%"/>
+Finalmente, una vez el realease se cargue, ingresando a la app web creada:
+<img src="https://user-images.githubusercontent.com/123812766/225199620-127cb28f-365a-4157-9ada-4d9286cb89c3.png" width="50%" height="50%"/>
+Con las credenciales otorgadas:
+<img src="https://user-images.githubusercontent.com/123812766/225199798-f8560cc7-8349-4c74-bddd-356263d4d95d.png" width="50%" height="50%"/>
 
