@@ -45,4 +45,9 @@ Ahora en Releases:
 <img src="https://user-images.githubusercontent.com/123812766/225180361-0c9d95d8-bbca-4a95-ac70-4530006519a1.png" width="50%" height="50%"/>
 Editamos el de MyShuttleRelease para verificar que el Artifact esté apuntando al artefacto Build:
 <img src="https://user-images.githubusercontent.com/123812766/225182480-1b143bd1-0446-409e-b91e-7c52504385aa.png" width="50%" height="50%"/>
+Después vamos al apartado de tasks y llenamos la información solicitada y seleccionamos save:
+<img src="https://user-images.githubusercontent.com/123812766/225196461-96762429-9a06-49fe-95de-9aede58b0d0a.png" width="50%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/123812766/225196595-39e235c5-c038-46ba-a24b-6f3f80a6690e.png" width="50%" height="50%"/>
+Se crea un release:
+<img src="https://user-images.githubusercontent.com/123812766/225198424-8070e329-21cc-4024-a681-a04fe3c94641.png" width="50%" height="50%"/>
 
