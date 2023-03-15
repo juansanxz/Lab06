@@ -39,3 +39,5 @@ Y run:
 <img src="https://user-images.githubusercontent.com/123812766/224490205-d5f50233-300d-4349-bd3e-bcd6c1647e14.png" width="50%" height="50%"/>
 Nos salió el siguiente error, para solucionarlo vamos a rellenar la encuesta que está en el link:
 <img src="https://user-images.githubusercontent.com/123812766/224490333-5090ba88-6794-4bf3-9c4f-cdd162c8fc6c.png" width="50%" height="50%"/>
+Una vez que nos hayan resuelto el problema y se vuelva a correr se evidencia algo así:
+<img src="https://user-images.githubusercontent.com/123812766/225180093-9a3107f3-60ec-4e99-a957-e3afc2e95260.png" width="50%" height="50%"/>
