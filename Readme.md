@@ -41,3 +41,8 @@ Nos salió el siguiente error, para solucionarlo vamos a rellenar la encuesta qu
 <img src="https://user-images.githubusercontent.com/123812766/224490333-5090ba88-6794-4bf3-9c4f-cdd162c8fc6c.png" width="50%" height="50%"/>
 Una vez que nos hayan resuelto el problema y se vuelva a correr se evidencia algo así:
 <img src="https://user-images.githubusercontent.com/123812766/225180093-9a3107f3-60ec-4e99-a957-e3afc2e95260.png" width="50%" height="50%"/>
+Ahora en Releases:
+<img src="https://user-images.githubusercontent.com/123812766/225180361-0c9d95d8-bbca-4a95-ac70-4530006519a1.png" width="50%" height="50%"/>
+Editamos el de MyShuttleRelease para verificar que el Artifact esté apuntando al artefacto Build:
+<img src="https://user-images.githubusercontent.com/123812766/225180936-095468a3-aafa-4f09-a285-c4f61d16124c.png" width="50%" height="50%"/>
+
