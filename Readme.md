@@ -44,5 +44,5 @@ Una vez que nos hayan resuelto el problema y se vuelva a correr se evidencia alg
 Ahora en Releases:
 <img src="https://user-images.githubusercontent.com/123812766/225180361-0c9d95d8-bbca-4a95-ac70-4530006519a1.png" width="50%" height="50%"/>
 Editamos el de MyShuttleRelease para verificar que el Artifact esté apuntando al artefacto Build:
-<img src="https://user-images.githubusercontent.com/123812766/225180936-095468a3-aafa-4f09-a285-c4f61d16124c.png" width="50%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/123812766/225182480-1b143bd1-0446-409e-b91e-7c52504385aa.png" width="50%" height="50%"/>
 
